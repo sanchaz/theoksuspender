@@ -1,6 +1,6 @@
 /*global chrome */
 /*
- * The Great Suspender
+ * The OK Suspender
  * Copyright (C) 2017 Dean Oemcke
  * Available under GNU GENERAL PUBLIC LICENSE v2
  * http://github.com/greatsuspender/thegreatsuspender

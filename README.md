@@ -1,17 +1,25 @@
-# The Great Suspender
+# The OK Suspender
+
+## Fork of The Great Suspender
+
+The OK Suspender is a fork of The Great Suspender, that is now plagued with doubts and shady pratices.
+
+We did this, because we want to keep using The Great Suspender, we have forked it and created The OK Suspender.
+
+We do not guarantee any updates, merges, or any sort of commitment, we do promise that we won't add shady crap, although we might look to monetise with a paid tier. If we do ever sell we will disclose such a sale and the entities involved.
 
 <img src="/src/img/suspendy-guy.png" width="100px" />
 
-"The Great Suspender" is a free and open-source Google Chrome extension for people who find that chrome is consuming too much system resource or suffer from frequent chrome crashing. Once installed and enabled, this extension will automatically *suspend* tabs that have not been used for a while, freeing up memory and cpu that the tab was consuming.
+"The OK Suspender" is a free and open-source Google Chrome extension for people who find that chrome is consuming too much system resource or suffer from frequent chrome crashing. Once installed and enabled, this extension will automatically *suspend* tabs that have not been used for a while, freeing up memory and cpu that the tab was consuming.
 
-If you have suggestions or problems using the extension, please [submit a bug or a feature request](https://github.com/greatsuspender/thegreatsuspender/issues/). For other enquiries you can email me at greatsuspender@gmail.com.
+If you have suggestions or problems using the extension, please [submit a bug or a feature request](https://github.com/sanchaz/theoksuspender/issues/).
 
 **If you have lost tabs from your browser:** I have written a guide for how to recover your lost tabs [here](https://github.com/deanoemcke/thegreatsuspender/issues/526
 ).
 
 ### Chrome Web Store
 
-The Great Suspender is [available via the official Chrome Web Store](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg).
+The OK Suspender is not yet available in the Chrome Store and currently sits with feature parity at v7.1.6 with The Great Suspender.
 
 Please note that the webstore version may be behind the latest version here. That is because I try to keep webstore updates down to a minimum due to their [disruptive effect](https://github.com/greatsuspender/thegreatsuspender/issues/526).
 
